@@ -5,7 +5,7 @@ Welcome to the documentation for ***The Highland Haven*** Hotel management appli
 
 ## 🚀 Live Demo
 
- - [The Highland Haven](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [The Highland Haven](https://the-highland-haven.vercel.app/login)
 
 
 ## 🔑 Demo Credentials
