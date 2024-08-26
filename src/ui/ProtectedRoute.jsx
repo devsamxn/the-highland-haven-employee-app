@@ -18,7 +18,7 @@ function ProtectedRoute({ children }) {
   // 1. Load the authenticated user
   const { isLoading, isAuthenticated } = useUser();
 
-  // 2. If there is NO authenticated user, redirect to the /login
+  // 2. If there is no authenticated user, redirect to the /login
   useEffect(
     function () {
       if (!isAuthenticated && !isLoading) navigate("/login");
@@ -34,7 +34,7 @@ function ProtectedRoute({ children }) {
       </FullPage>
     );
 
-  // 4. If there IS a user, render the app
+  // 4. If there is a user, render the app
   if (isAuthenticated) return children;
 }
 

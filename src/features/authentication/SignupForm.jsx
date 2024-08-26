@@ -5,8 +5,6 @@ import FormRow from "../../ui/FormRow";
 import Input from "../../ui/Input";
 import { useSignup } from "./useSignup";
 
-// Email regex: /\S+@\S+\.\S+/
-
 function SignupForm() {
   const { signup, isLoading } = useSignup();
   const { register, formState, getValues, handleSubmit, reset } = useForm();
@@ -40,7 +38,7 @@ function SignupForm() {
           {...register("email", {
             required: "This field is required",
             pattern: {
-              value: /\S+@\S+\.\S+/,
+              value: /\S+@\S+\.\S+/, // Email regex: /\S+@\S+\.\S+/
               message: "Please provide a valid email address",
             },
           })}
@@ -79,7 +77,6 @@ function SignupForm() {
       </FormRow>
 
       <FormRow>
-        {/* type is an HTML attribute! */}
         <Button
           variation="secondary"
           type="reset"

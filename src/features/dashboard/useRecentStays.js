@@ -7,7 +7,7 @@ export function useRecentStays() {
   const [searchParams] = useSearchParams();
 
   const numDays = !searchParams.get("last")
-    ? 7 //make it 7 -- this is the last 30 days booking numbers which were either checked-in or checked-out in the given period.
+    ? 7
     : Number(searchParams.get("last"));
   const queryDate = subDays(new Date(), numDays).toISOString();
 
