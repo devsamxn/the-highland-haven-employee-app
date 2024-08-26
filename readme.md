@@ -31,14 +31,23 @@ Welcome to the documentation for ***The Highland Haven*** Hotel management appli
 
 ## 💻 Tech Stack
 - **React**: A JavaScript library for building user interfaces and components.
+
 - **Supabase**: A cloud database service providing real-time and secure data storage.
+
 - **TanStack Query(react-query)**: A library for data fetching and state management in React applications.
+
 - **date-fns**: A JavaScript library for parsing, formatting, and manipulating dates.
+
 - **React-router-dom**: A routing and navigation library for React applications.
+
 - **Recharts**: A composable charting library for creating charts in React.
+
 - **Styled-components**: A CSS-in-JS library for styling React components with ease.
+
 - **React-hot-toast**: A customizable library for displaying toast notifications in React.
+
 - **React-icons**: A collection of customizable icons for use in React applications.
+
 - **React-hook-form**: A library for managing form state and validation in React.
 
 *Visit my portfolio website* - [*sameernegi.com*](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
