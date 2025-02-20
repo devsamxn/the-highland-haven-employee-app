@@ -1,4 +1,4 @@
-_Visit my portfolio website_ - [_sameernegi.com_](https://www.sameernegi.con)
+_Visit my portfolio website_ - [_sameernegi.com_](https://www.sameernegi.com)
 # 🏡 The Highland Haven 🏡
 
 Welcome to the documentation for **_The Highland Haven_** Hotel management application. This application is meticulously designed to streamline and manage various hotel operations. It offers robust features for handling sales statistics, cabin management, user management and booking management. Additionally, the application integrates essential functionalities such as authentication for secure user access, reliable database storage for managing data, and a dark mode feature to enhance user experience in low-light environments. This documentation will guide you through the application’s features and assist you in making the most out of the application.
