@@ -5,7 +5,7 @@ Welcome to the documentation for **_The Highland Haven_** Hotel management appli
 
 ## 🚀 Live Demo
 
-- [The Highland Haven](https://the-highland-haven.vercel.app/)
+- [The Highland Haven](https://thehighlandhaven-staff.vercel.app/)
 
 ## 🔑 Demo Credentials
 
